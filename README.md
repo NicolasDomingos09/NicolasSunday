@@ -3,3 +3,5 @@ Você esqueceu seu git aberto, criei um código com alguns lembretes a partir do
 
 Para rodar, exporte o arquivo zipado, descompacte-o e copie a pasta do projeto. Cole no java e rode!
 
+<img src="/img/ascii-art.png">
+
